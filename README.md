@@ -5,7 +5,7 @@ https://docs.google.com/spreadsheets/d/1JgH5R1ImRezDry2VWjQZUjvIAsmCPYVXTi_fqYMO
 https://docs.google.com/presentation/d/15tgVxQT8VS48yjZtA93B6JxcAsZ97UuS1gA6wkIacSA/edit?usp=sharing
 ### Python Basics
 https://docs.google.com/presentation/d/14_zxcOJ-aJETIFZHXxW17K-JqrqBqXbmSc_nSnY7T-U/edit?usp=sharing
-### Python Libs for A-ML-DS
+### Python Libs for AI-ML-DS
 https://docs.google.com/presentation/d/1YhqTC_PPQEK9reUOV8JdMfvZJ7_MPrmVgOX_YhqMncU/edit?usp=sharing
 ### Data Management Class
 https://docs.google.com/presentation/d/1fb1QWswZX-ojki0AL7EOZ3HgXE9T2VhDNESK9839ZkM/edit?usp=sharing
