@@ -1,0 +1,29 @@
+install
+-------
+sudo apt install mongodb
+
+starting shell
+--------------
+sudo mongo
+
+sudo systemctl status mongodb
+sudo systemctl start mongodb
+sudo systemctl stop mongodb
+sudo systemctl restart mongodb
+
+sudo systemctl enable mongodb
+sudo systemctl disable mongodb
+
+uninstall
+---------
+sudo systemctl stop mongodb
+sudo apt purge mongodb
+sudo apt autoremove
+
+
+
+
+
+
+
+
